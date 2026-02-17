@@ -1,5 +1,8 @@
 # tg-gemini-bot - dsad assd asds da da
 
+hi gay
+
+
 [EN](README.md) | [简中](README_zh-CN.md)
 
 The tg-gemini-bot let's you use Google Gemini services right on your personal Telegram bot.
